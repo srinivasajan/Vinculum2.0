@@ -1,1 +1,6 @@
-# Vinculum2.0
+# Vinculum
+This project is a modern, fully responsive custom browser start page designed with a dark, minimal aesthetic and smooth animated visuals. The interface features a dynamic background composed of floating, blurred gradient orbs that create depth without overwhelming the layout. At the center, the page displays a gradient-styled brand title, a lightweight tagline, a live digital clock, and an automatic time-based greeting.
+
+A smart search bar mimics browser omnibox behavior by detecting full URLs, bare domains, or normal search queries and routing them accordingly. Below it, a customizable shortcut grid loads from localStorage and adapts to screen size with up to nine columns on larger displays. Each shortcut tile includes a blurred card design, hover animation, and auto-generated favicon if no custom icon is provided.
+
+The page includes two management modals: one for adding or editing shortcuts with protocol correction and optional icon input, and another for viewing, editing, or deleting existing shortcuts. Settings persist automatically using localStorage. Smooth transitions, keyboard support, and a clean layout make this start page fast, functional, and highly customizable.

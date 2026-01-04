@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Vinculum",
+    "version": "1.0.0",
+    "description": "Your Digital Gateway - A beautiful new tab page with your bookmarks",
+    "permissions": [
+        "bookmarks"
+    ],
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "icons": {
+        "16": "icons/icon128.png",
+        "48": "icons/icon128.png",
+        "128": "icons/icon128.png"
+    }
+}
